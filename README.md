@@ -1,8 +1,9 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+# Python 3 Learning (Jupyter Notebooks codes)
 
+This repository is dedicated for learning python 3 . 
 
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+I have added all the codes snipperts in notebooks to quickly learn and practise.
 
-Thanks!
+Either download this repository or clone to use it accordingly.
+
+Happy Learing coders !!
