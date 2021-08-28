@@ -2,11 +2,11 @@
 
 This repository is dedicated for learning python 3 . 
 
-I have added all the codes snipperts in notebooks to quickly learn and practise.
+I have added all the codes snippets in notebooks to quickly learn and practise.
 
 Either download this repository or clone to use it accordingly.
 
-Happy Learing coders !!
+Happy Learning fellow coders !! 👋![](2021-08-28-20-50-26.png)
 
 ### Connect with me:
 
